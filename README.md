@@ -13,17 +13,11 @@
 ## Technologies used :
 ### Language 
 - *Python*- for programming and writing logic.
-- *CSS* - for adding some UI/UX.
+  
 ### Python libraries 
-- api, beautifulsoup4, matplotlib, numpy, pandas, pickle_mixin, plotly, requests, scikit_learn.
+-   matplotlib, numpy, pandas,scikit_learn,seaborn,re,string.
 ### Algorithms 
-- Machine Learning Algorithms such as Linear Regression and SVM Regression.
-### APIs
-- NewsAPI.
-### Framework for deployment
-- Streamlit.
-### Hosted on 
-- Streamlit share.
+- Machine Learning Algorithms such as Logistic Regression ,Random Forest Classifier ,Decision Tree Classifier and Gradient Boosting Classifier.
 
 ## Working of the app :
 ### Import libraries and dataset.
@@ -64,37 +58,18 @@
 - Specific logic is written, utilizing the dataset to solve these queries to display the maximum or minimum values of a car feature, etc. 
 - For the 'Grouping and Segmentation' query, K-Clustering Algorithm to form different groups which could depict best combinations of two features which most of the automobiles uses. A scatter graph is displayed to view these groups and segmentation.
 > **K-Clustering Algorithm** -*It is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters. It allows us to cluster the data into different groups and a convenient way to discover the categories of groups in the unlabeled dataset on its own without the need for any training.*
-![Screenshot (170)](https://user-images.githubusercontent.com/83575900/170860361-93106124-8e92-4fc7-9ff4-30d20cd867f6.png)
-
-### Deployment
-- After all the code is written, it is deployed on Streamlit framework, with a few changes to the code for errorfree deployment.
-> **Streamlit** - *It is an open source app framework in Python language, which helps us create beautiful web apps for data science and machine learning.*
- 
-### UI/UX
-- Although Streamlit provides a decent UI/UX design, some custom CSS is added in the code to improve the look of the app, and give some colours and design to the headings and text.
-
-### Hosting 
-- After all the code is ready and the app is all deployed, it is hosted on streamlit share.
 
 ## Functionality & features :
 ### 1. Visual Representation :
 - You can visually represent the different features of cars such as engine size, length, width, horsepower, etc in the form of various *charts and graphs* such as bar, line, area, scatter, pie, donut chart. The charts and graphs are **interactive**; you can choose or select one or more features, and also the type of graphs.
 
-### 2. Dependency & Analysis :
-- You can check out the dependency and **variation** of one feature of an automobile with other features such as engine size, length, width, horsepower, etc , in the form of line and area graph. The charts and graphs are interactive; you can choose or select one or more features, and also the type of graphs.
 
-### 3. Price Prediction :
-- You can predict the price of a car by inputting several parameters such as width, horsepower, engine size etc. You can also choose the prediction model to predict the price - **Linear Regression or SVM Regression.**
 
-### 4. Resolve Queries :
-You can resolve various queries related to automobiles such as-
-- find the cars with specific value of features , for example find the car names whose engine size is greater than 200, etc.
-- find the highest/lowest values of the features, for example find the highest value of length or width of car, and the car names which possess these values,etc.
-- find and view grouping and segmentation of two features ie to show best combinations of two specific features which are availabel.
 
-### 5. Automobile News :
-- News extracted using the NewsAPI can be shown here.You can **search a keyword** related to automobiles and get access to news related to it.
 
-## Application of Data Analysis in Automobile Industry
+
+
+
+## Application of Fake News Detection 
 - In automobile industry, analyzed data is used to improve the customer experience, where data grouping and segmentation can lead to more *effective marketing and improved customer engagement , more targeted one‑to‑one offers* and can help the automobile industry to correctly manage the features and price of cars. 
 -The analyzed data can be used for changing the **auto business, support mechanization, and boost automation.**
