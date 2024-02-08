@@ -8,7 +8,7 @@
 ](url)
 
 ## Important instructions
-- **python version should be *3.7***
+- **python version should be *latest***
 
 ## Technologies used :
 ### Language 
