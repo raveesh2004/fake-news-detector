@@ -4,7 +4,7 @@
 - It is the process of systematically applying statistical and/or logical techniques such as cleaning, transforming, and modeling data to discover useful information for business decision-making. 
 
 ## Dataset used 
-[https://github.com/jyoti-bhasin/Automobile_Analysis_Project_streamlit.app/blob/main/Book2.csv
+[https://github.com/raveesh2004/fake-news-detector/blob/main/True%20news%20dataset.zip
 ](url)
 
 ## Important instructions
