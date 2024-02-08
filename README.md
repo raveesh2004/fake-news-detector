@@ -37,10 +37,10 @@
 > - **TfidfVectorizer**- *is a feature extraction tool that transforms text documents into numerical representations based on term frequency-inverse document frequency.*
 
 ### 3- feature
-> **Logistic Regression** -*is a machine learning algorithm used for binary classification tasks, estimating the probability of a sample belonging to a particular class.*
-> **Decision Tree Classifier** -*is a machine learning algorithm used for classification tasks, where it builds a decision tree to predict the class label of a sample based on its features.*
-> **Gradient Boosting Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees sequentially, where each subsequent tree corrects the errors made by the previous ones, ultimately improving predictive accuracy.*
-> **Random Forest Classifier ** -* is a machine learning algorithm that builds an ensemble of decision trees and combines their predictions to make a final classification, resulting in improved accuracy and robustness compared to individual trees.*
+> - **Logistic Regression** -*is a machine learning algorithm used for binary classification tasks, estimating the probability of a sample belonging to a particular class.*
+> - **Decision Tree Classifier** -*is a machine learning algorithm used for classification tasks, where it builds a decision tree to predict the class label of a sample based on its features.*
+> - **Gradient Boosting Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees sequentially, where each subsequent tree corrects the errors made by the previous ones, ultimately improving predictive accuracy.*
+> - **Random Forest Classifier ** -* is a machine learning algorithm that builds an ensemble of decision trees and combines their predictions to make a final classification, resulting in improved accuracy and robustness compared to individual trees.*
 > 
 ## Functionality & features :
 ### 1. Visual Representation :
