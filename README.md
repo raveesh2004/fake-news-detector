@@ -40,8 +40,8 @@
 > - **Logistic Regression** -*is a machine learning algorithm used for binary classification tasks, estimating the probability of a sample belonging to a particular class.*
 > - **Decision Tree Classifier** -*is a machine learning algorithm used for classification tasks, where it builds a decision tree to predict the class label of a sample based on its features.*
 > - **Gradient Boosting Classifier** -*is a machine learning algorithm that builds an ensemble of decision trees sequentially, where each subsequent tree corrects the errors made by the previous ones, ultimately improving predictive accuracy.*
-> - **Random Forest Classifier ** -* is a machine learning algorithm that builds an ensemble of decision trees and combines their predictions to make a final classification, resulting in improved accuracy and robustness compared to individual trees.*
-> 
+> - **Random Forest Classifier** -* is a machine learning algorithm that builds an ensemble of decision trees and combines their predictions to make a final classification, resulting in improved accuracy and robustness compared to individual trees.*
+
 ## Functionality & features :
 ### 1. Visual Representation :
 - You can visually represent the different features of cars such as engine size, length, width, horsepower, etc in the form of various *charts and graphs* such as bar, line, area, scatter, pie, donut chart. The charts and graphs are **interactive**; you can choose or select one or more features, and also the type of graphs.
